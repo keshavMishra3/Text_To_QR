@@ -51,7 +51,7 @@ html,body{
 @media  (max-width:430px) {
     .container{
         height:35vh;
-        width:36vh;
+        width:46vh;
         background-color: white;
         border-radius: .8vw;
         display: flex;
@@ -62,14 +62,14 @@ html,body{
     #textInput{
    
         height:5.5vh;
-        width:34vh;
+        width:44vh;
         border:2px solid rgb(44, 44, 50) ;
         border-radius: 5px;
         font-size: 3vh;
     }
     #generatorButn{
         height:5.5vh;
-        width:34vh;
+        width:44vh;
        
         border-radius: 5px;
         background-color: rgb(125, 125, 199);
